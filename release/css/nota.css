@@ -1,0 +1,84 @@
+
+h1{color:#238e23;}
+
+.fo1
+{
+	padding:3px;
+	
+}
+.fo1 label{color:#5bb782;}
+
+
+.block
+{
+	border:1px solid #9ab7a6;
+	border-radius: 12px;
+	background-color: #fcfcfc;
+	opacity: 0.88;
+	box-shadow: 0 0 3px #ccc;
+
+
+}
+.block legend{background-color: #fff;border-radius: 8px;width:7em;padding-left:5px;}
+.legen{width:6em;margin-left:25px;	padding:5px; border:1px solid #9ab7a6;color:#a3a313;}
+
+
+.s9{font-size: 9px;}
+.s10{font-size: 10px;}
+.s11{font-size: 11px;}
+.s12{font-size: 12px;}
+.s13{font-size: 13px;}
+.s14{font-size: 14px;}
+.s15{font-size: 15px;}
+.s16{font-size: 16px;}
+.s17{font-size: 17px;}
+.s18{font-size: 18px;}
+.s19{font-size: 19px;}
+.s20{font-size: 20px;}
+.s21{font-size: 21px;}
+.s22{font-size: 22px;}
+.s23{font-size: 23px;}
+.s24{font-size: 24px;}
+.s25{font-size: 25px;}
+
+
+.addIten{color:#54b754!important;left:5%;font-size: 27px;top:0px;position: relative;}
+.addIten:hover{color:#83d183!important;cursor:pointer;}
+.remove{position:relative; left:5%; font-size: 27px;top:0px;}
+.remove:hover{color:#dd4f4f;cursor:pointer;}
+#linhasItens
+{
+	border:1px solid #c2c48f;
+	box-shadow:  0 0 13px #f7f6de inset;
+	background-color: #f7f6de!important;
+	padding-bottom:15px; 
+
+}
+#linhasItens > th{background-color:#f7f6de;}
+
+.final-line th
+{
+	background-color: #c0e2c3!important;
+	border:2px solid #72af76;
+	margin:1px;
+}
+
+.calcula_valor
+{
+	position:relative;
+	left:70px;
+	color:#2f64b5;
+	font-size: 20px;
+
+}
+.calcula_valor:hover
+{
+	color:#6b98db;
+	cursor:pointer;
+}
+#ui-datepicker-div span{color:#222;}
+
+input{text-align: center;}
+#content{width: 100%;}
+
+#hiden{border:none; background-color:transparent; box-shadow: none; color:#468847;}

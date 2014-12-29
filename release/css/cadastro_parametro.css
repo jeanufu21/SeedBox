@@ -1,0 +1,79 @@
+		/*
+				Title: Folha de estilo para o cadastro de parametros
+				Author:Jean Fabrício
+				Date:  / /2014
+		*/
+
+/*
+	Folha de estilo para a Tela de Cadastro de Espécies
+
+	Author:Jean Fabrício 
+	Date:14/01/2014
+
+*/
+
+
+h1{color:#238e23;font-size: 28px;}
+
+.fo1
+{
+	padding:3px;
+	
+}
+.fo1 label{color:#5bb782;}
+
+.he{height: 3.75em}
+.block
+{
+	border:1px solid #9ab7a6;
+	border-radius: 12px;
+	background-color: #fcfcfc;
+	opacity: 0.88;
+	box-shadow: 0 0 3px #ccc;
+
+
+}
+.block legend{background-color: #fff;border-radius: 8px;width: 6.25em;padding-left: 5px;}
+.legen{width:6em;margin-left:25px;	padding:0px; border:1px solid #9ab7a6;color:#a3a313;}
+
+.s9{font-size: 9px;}
+.s10{font-size: 10px;}
+.s11{font-size: 11px;}
+.s12{font-size: 12px;}
+.s13{font-size: 13px;}
+.s14{font-size: 14px;}
+.s15{font-size: 15px;}
+.s16{font-size: 16px;}
+.s17{font-size: 17px;}
+.s18{font-size: 18px;}
+.s19{font-size: 19px;}
+.s20{font-size: 20px;}
+.s21{font-size: 21px;}
+.s22{font-size: 22px;}
+.s23{font-size: 23px;}
+.s24{font-size: 24px;}
+.s25{font-size: 25px;}
+
+
+
+#novos_campos button{margin:5px;position:relative; left:5%;}
+#novos_valores legend{width:3.9em;}
+#novos_valores button{position:relative; left:-30%;}
+.bot
+{
+	position: relative;
+
+	padding:3px 6px;
+	border-radius: 50%;
+	box-shadow: 0 0 2px #58ad58 inset;
+
+}
+.bot-sucess{background-color: #5caf5c;}
+.bot-sucess:hover{background-color: #9ad69a;}
+
+.bot-fail{background-color: #dc6763;}
+.bot-fail:hover{background-color: #e28988;}
+.bot:hover{cursor: pointer;}
+#bots{position: relative;top:-20px;padding-left:95%;}
+#bots a{color:#fff;}
+

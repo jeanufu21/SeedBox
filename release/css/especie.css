@@ -1,0 +1,40 @@
+/*
+	Folha de estilo para a Tela de Cadastro de Espécies
+
+	Author:Jean Fabrício 
+	Date:14/01/2014
+
+*/
+
+
+h1{color:#238e23;}
+
+.fo1
+{
+	padding:3px;
+	
+}
+.fo1 label{color:#5bb782;}
+
+.he{height: 3.75em}
+.block
+{
+	border:1px solid #9ab7a6;
+	border-radius: 12px;
+	background-color: #fcfcfc;
+	opacity: 0.88;
+	box-shadow: 0 0 3px #ccc;
+
+
+}
+.panel-principal{overflow-y:scroll;height: 35em;}
+.block legend{background-color: #fff;border-radius: 8px;width: 6.25em;padding-left: 5px;}
+.legen{width:6em;margin-left:25px;	padding:0px; border:1px solid #9ab7a6;color:#a3a313;}
+.container{width: 65em!important; height: 30em;}
+#config_especie{box-shadow: 0 0 4px #222;border-top: 1px solid #ccc;}
+.fixed-height
+{
+	height: 200px; 
+	overflow: auto;
+	color:#529653;
+}
