@@ -1,0 +1,59 @@
+
+body{
+	padding-top: 50px;
+	background-color: #f2f9f5;
+
+}
+.navbar{border:none;}
+.navbar-default {background-color: #f2f9f5!important;}
+span
+{
+	font:15px arial,verdana;
+	top:7px;
+	color:#baa821;
+
+
+}	
+.dropdown-menu{background-color: #e3f7ec;}
+
+#menu a{transition:opacity .15s;border-radius:5px;}
+
+#menu a:hover
+{
+	opacity: 0.8;
+}
+
+#bar-nav
+{
+	box-shadow: 0 0 3px #ccc inset;
+	background-color: #fff;
+background-image: url("http://eagleflores.ep2virtual.com.br/wp-content/uploads/2013/09/bgheader.png");
+background-repeat: repeat;
+background-position: left top;
+background-attachment: scroll;	
+}
+.navbar-header{width: 100%;}
+.top-words
+{
+	
+	position:relative;
+	left:85%;
+	font-size: 14px;
+}
+.top-words:hover
+{
+	text-shadow: 0 0 2px #fff;
+	cursor: pointer;
+}
+.corp{background-color:#effcf5;position: relative;height: 30em;}
+.drop{border:none;margin-top:8px}
+.btn-default:hover, .btn-default:focus, .btn-default:active, 
+.btn-default.active, .open .dropdown-toggle.btn-default{background-color:#fff!important;box-shadow:0 0 0 #fff!important;opacity: 0.8; }
+.dropdown-menu li a:hover{background-color: #ceead9;}
+.icon{top:0;color:#fff;}
+.icon_black{top:0;color:#bf2424;}
+#fechar{position:relative;left:5%;font-size: 25px; background-color:#fff;border:1px solid #999;padding-left:3px;padding-right:3px;border-radius: 6px;}
+#fechar:hover{color:#891414; cursor: pointer;background-color:#efeaea;}
+#baner{font-size: 120px;position: relative; top:1.5em;margin-left: 20%; font-weight: bold; color:#888989; opacity: 0.2;}
+.menu{background-color: #fff;}
+a:hover{text-decoration: none;}
